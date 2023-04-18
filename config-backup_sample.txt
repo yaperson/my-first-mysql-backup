@@ -1,0 +1,6 @@
+# fichier de configuration : script.sh
+
+user_db_bkp="mysql_user_name"
+db_pwd_bkp="mysql_user_password"
+db_name_bkp="db_to_backup"
+backup_path="/path/for/backup"
